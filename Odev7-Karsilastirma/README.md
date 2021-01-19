@@ -1,3 +1,6 @@
-# android-uyg-gelistirme MMOT213
+MediaPlayer
+SoundPool
+ExoPlayer
+Karşılaştırılmıştır.
 
- Bu repository Kotlin ile geliştireceğim android uygulamalarım için oluşturulmuştur.
+pdf ve excel eklenmiştir.
